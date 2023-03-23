@@ -1,0 +1,1 @@
+alter table student add total_marks int null;
